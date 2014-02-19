@@ -1,0 +1,8 @@
+Software Name : VypeenSoft SubDB subtitle download
+
+Credits :
+This software has dependencies of the following software...
+
+1> md5.exe  {md5 v2.2 by John Walker ( http://www.fourmilab.ch/ )  (2008-01-14)}
+2> curl.exe {curl v7.15.3 by ( http://curl.haxx.se )}
+3> fart.exe {Find And Replace Text v1.99b by Lionello Lunesu}
